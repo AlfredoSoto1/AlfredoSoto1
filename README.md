@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I am an experienced Computer Engineering student with a strong foundation in software development, algorithms, databases, and systems architecture. Always passionate about learning new technologies and developing efficient solutions.
+I am a Computer Engineering student with a strong foundation in software development, algorithms, databases, and systems architecture. Always passionate about learning new technologies and developing efficient solutions.
 
 ---
 
