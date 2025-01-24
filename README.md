@@ -10,7 +10,7 @@ I am a Computer Engineering student with a strong foundation in software develop
 ---
 
 ## 🛠️ Programming Languages
-[![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,javascript,scala)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,java,rust,python,javascript,scala)](https://skillicons.dev)
 
 ## 📚 Databases
 [![Skills](https://skillicons.dev/icons?i=postgres,sqlite,flask,spring,docker)](https://skillicons.dev)
