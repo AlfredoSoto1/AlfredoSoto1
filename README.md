@@ -19,4 +19,4 @@ I am a Computer Engineering student with a strong foundation in software develop
 [![Skills 4](https://skillicons.dev/icons?i=java,python,react,html,css,javascript,npm)](https://skillicons.dev) 
 
 ## ⚙️Tools
-[![Skills](https://skillicons.dev/icons?i=cmake,visualstudio,vscode,eclipse,pycharm,docker,heroku,raspberrypi,windows,linux,ubuntu,git,github,powershell,bash,vim)](https://skillicons.dev) 
+[![Skills](https://skillicons.dev/icons?i=cmake,visualstudio,vscode,eclipse,pycharm,docker,heroku,raspberrypi,windows,linux,ubuntu,discord,git,github)](https://skillicons.dev) 
