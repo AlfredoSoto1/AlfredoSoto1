@@ -97,12 +97,6 @@ Focused on preprocessing, segmentation, and feature extraction pipelines.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoSoto1&layout=compact&hide_border=true&cache_seconds=1800)
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlfredoSoto1&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlfredoSoto1&layout=compact&hide_border=true)
-
 ---
 
 ## Contact
