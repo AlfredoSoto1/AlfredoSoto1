@@ -102,3 +102,7 @@ Focused on preprocessing, segmentation, and feature extraction pipelines.
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/alfredo-d-soto-velez/
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AlfredoSoto1&label=Profile%20views&color=f51626&style=flat" alt="Alfredo Soto" />
+</p>
