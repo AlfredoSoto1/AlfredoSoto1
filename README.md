@@ -20,7 +20,7 @@ Core interests include system design, distributed systems, low-level programming
 [![Languages](https://skillicons.dev/icons?i=c,cpp,rust,cs,java,python,javascript,typescript)](https://skillicons.dev)
 
 ### Backend and Systems
-[![Backend](https://skillicons.dev/icons?i=dotnet,nodejs)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=dotnet,spring,flask,nodejs)](https://skillicons.dev)
 
 - REST API design and development  
 - Event-driven architectures  
@@ -28,7 +28,7 @@ Core interests include system design, distributed systems, low-level programming
 - Compiler and parser development  
 
 ### Databases and Storage
-[![Databases](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,sqlite,redis)](https://skillicons.dev)
 
 - Relational modeling and query optimization  
 
@@ -40,7 +40,7 @@ Core interests include system design, distributed systems, low-level programming
 - Linux-based systems  
 
 ### Web Technologies
-[![Web](https://skillicons.dev/icons?i=react,nextjs,html,css,htmx,javascript,npm,wordpress)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=react,nextjs,nginx,html,css,tailwind,htmx,javascript,npm,wordpress)](https://skillicons.dev)
 
 ### Desktop Experience
 [![Desktop](https://skillicons.dev/icons?i=electron,unity,unreal)](https://skillicons.dev)
@@ -57,7 +57,7 @@ Core interests include system design, distributed systems, low-level programming
 - Hardware-software interaction  
 
 ### Tools and Development Environment
-[![Tools](https://skillicons.dev/icons?i=ai,cmake,visualstudio,vscode,eclipse,linux,git,github,githubactions)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=ai,cmake,visualstudio,vscode,eclipse,linux,git,github,githubactions,blender)](https://skillicons.dev)
 ---
 
 ## Core Competencies
