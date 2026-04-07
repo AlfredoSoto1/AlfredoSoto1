@@ -52,7 +52,7 @@ Core interests include system design, distributed systems, low-level programming
 ### Embedded and Low-Level Systems
 [![Embedded](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
 
-- Embedded development (ESP32, microcontrollers)  
+- Embedded development (ESP32, Raspberry Pi Pico, MSP430, microcontrollers)  
 - Systems programming and memory management  
 - Hardware-software interaction  
 
